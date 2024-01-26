@@ -4,11 +4,8 @@ Welcome to the VPN client migration repository for transitioning clients to the 
 ## Files Included
 
 ### User Configuration Check and Remediation
-- CI - Set USER F5 ra.oregon.gov config.ps1: This script is utilized for checking the user configuration related to the ra.oregon.gov VPN.
-- CI - Set USER F5 ra.oregon.gov remediation.ps1: Use this script for remediation actions related to user configurations for the ra.oregon.gov VPN.
-System Configuration Check and Remediation
-- CI - Set SYSTEM F5 ra.oregon.gov config.ps1: Use this script to check system configurations pertaining to the ra.oregon.gov VPN.
-- CI - Set SYSTEM F5 ra.oregon.gov remediation.ps1: This script is designed for system-level remediation tasks associated with the ra.oregon.gov VPN configuration.
+- CI - Set USER F5 ra.oregon.gov config.ps1: This script is utilized for checking the user configuration related to the ra.oregon.gov VPN. Use flags to control behavior.
+- CI - Set SYSTEM F5 ra.oregon.gov config.ps1: Use this script to check system configurations pertaining to the ra.oregon.gov VPN. Use flags to control behavior.
 
 ## Instructions
 User Configuration Check:
